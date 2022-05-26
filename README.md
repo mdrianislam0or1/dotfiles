@@ -69,52 +69,20 @@ For now copy paste as needed! (WIP: make an autoinstall script!)
 
 # Author
 
- <table style="width:100%">
-  <tr>
-    <td>
-        <div align="center">
-            <a href="./docs/img/photo.png" target="_blank" rel="author">
-                <img src="./docs/img/photo.jpeg" style="border-radius: 10%" alt="Israel Laguan's Photo">
-            </a>
-            <h2>
-                <a href="https://israel-laguan.github.io/" target="_blank" rel="author">
-                    Israel Laguan
-                </a>
-            </h2>
-        </div>
-    </td>
-    <td>
-        <div align="center">
-            <a href="https://github.com/Israel-Laguan" target="_blank" rel="author">
-                <img src="./docs/img/github.png" style="border-radius: 10%" alt="My GitHub">
-                <h2>
-                    My GitHub Profile
-                </h2>
-            </a>
-        </div>
-    </td>
-    <td>
-        <div align="center">
-            <a href="https://israel-laguan.github.io/" target="_blank" rel="author">
-                <img src="./docs/img/website.png" alt="My Website">
-                <h2>
-                    My Portafolio Web Page
-                </h2>
-            </a>
-        </div>
-    </td>
-    <td>
-        <div align="center">
-            <a href="https://www.linkedin.com/in/israellaguan/" target="_blank" rel="author">
-                <img src="./docs/img/linkedin.png" alt="My Linkedin">
-                <h2>
-                    My Linkedin
-                </h2>
-            </a>
-        </div>
-    </td>
-  </tr>
-</table> 
+| [Israel Laguan][author-github] | ![email-icon][] Email me to [contact@israellaguan.com][author-email] / ![linkedin-icon][] Connect to [my LinkedIn][author-linkedin] |
+| :----------------------------: | :---------------------------------------------------------------------------------------------------------------------------------: |
+|        ![author-pic][]         |                                                              ![banner]                                                              |
+
+<!-- MARKDOWN LINKS & IMAGES -->
+
+[author-pic]: https://avatars2.githubusercontent.com/u/36519478?s=460&v=4
+[author-github]: https://israel-laguan.github.io
+[author-linkedin]: https://www.linkedin.com/in/israellaguan
+[author-email]: mailto:contact@israellaguan.com
+[banner]: https://github.com/Israel-Laguan/Israel-Laguan/raw/master/docs/banner.jpg
+[linkedin-icon]: https://img.icons8.com/color/20/000000/linkedin.png
+[email-icon]: https://img.icons8.com/color/20/000000/message-squared.png
+
 
 # Contributing
 
